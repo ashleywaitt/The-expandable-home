@@ -14,7 +14,7 @@ _microhouse_0.5.skp: Sketchup 3D Model of the complete design including cladding
 
 _microhouse_0.5_chassis.skp: Sketchup 3D Model of the Wikihouse structural chassis
 
-Terms of use
+<b>Terms of use <b>
 By downloading these files or information you agree to the following terms and conditions.
 
 Information is shared without any kind of warranty or guarantee All Information is provided ‘as is’. No representations or warranties express or implied are made regarding the Wikihouse Info, its accuracy, completeness, functionality or fitness for a particular use in a particular location.
