@@ -1,18 +1,22 @@
 # The-Expandable-Home
 <!DOCTYPE html>
+
 <img src="How to Build a Community Magazine Page Cover Image.jpg" alt="How to Build a Community Magazine" width="420" height="594">
 
-_Project Engine: contains specification, costing/quantity information, and overall dimensions of the Microhouse design
+_Abstract, Research & Investigation: 
 
-_AssemblyManual: Detailed guide on how to put the whole thing together
+_Final Frame R&D:
 
-_othercomponents_v0.5.dxf: Additional CNC cutting files for other components, such as fit-out furniture using SPARROW and cladding panels.
+_How to Build A Community Magazine Page Cover Image: 
 
-_WRENchassis_v0.5.dxf: Complete CNC cutting files for the building's structural chassis
+_How to Build A Community Magazine Pages 1-12: 
 
-_microhouse_0.5.skp: Sketchup 3D Model of the complete design including cladding, fitout and services
+_How to Build A Community Magazine Pages 13-24: 
 
-_microhouse_0.5_chassis.skp: Sketchup 3D Model of the Wikihouse structural chassis
+_Instruction Manual: 
+
+_Readme:
+
 
 # Terms of Use
 
