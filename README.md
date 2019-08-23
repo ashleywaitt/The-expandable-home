@@ -13,3 +13,6 @@ _WRENchassis_v0.5.dxf: Complete CNC cutting files for the building's structural 
 _microhouse_0.5.skp: Sketchup 3D Model of the complete design including cladding, fitout and services
 
 _microhouse_0.5_chassis.skp: Sketchup 3D Model of the Wikihouse structural chassis
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
