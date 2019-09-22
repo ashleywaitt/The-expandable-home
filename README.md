@@ -1,9 +1,10 @@
 # The-Expandable-Home
 <!DOCTYPE html>
-<img src="Instruction Manual Cover Image.jpg" alt="How to Build a Community Magazine" width="420" height="594">
 
 Background: 
 The UK is in a housing crisis, with 300,000 homes needing to be built per year, the UK is currently achieving 50% of this. By continuing to deliver 150,000 homes per year, it is predicted by 2025 the UK will have housing targets of 750,000 homes needed per year. Alongside the worsening housing crisis, there is a rise of loneliness and an aura of uncertainty upon the British people. Change is needed!
+
+<img src="Instruction Manual Cover Image.jpg" alt="How to Build a Community Magazine" width="420" height="594">
 
 The Expandable Home develops upon WikiHouse construction methods and seeks to question National Housing Technical Space Standards, arguing through communal self builds and delivering smaller private spaces we can increase the sense of community and achieve pressuring housing needs. Through detailed demographic analysis, a diverse home for life that can adapt and grow to the needs of people has been created at a total cost of £20,000 - £30,000 and can be built within 3-4 days. 
 
